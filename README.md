@@ -62,12 +62,12 @@ Interactive App/
 
 ## Deployed Application
 
-[Link to your deployed Streamlit App] - *Replace this with your actual Streamlit Cloud app link once deployed.*
+https://nick-student-performance-dashboard.streamlit.app/Student_Deep_Dive
 
 ## Dataset
 
 The dashboard utilizes the "Student Performance Factors" dataset, which includes information on study habits, attendance, parental involvement, and other aspects influencing academic success.
-*   **Source:** [Link to Kaggle Dataset or mention if provided]
+*   **Source:** https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
 *   **File:** `StudentPerformanceFactors.csv`
 
 ## Design Rationale
